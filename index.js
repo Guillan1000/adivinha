@@ -1,4 +1,4 @@
-console.log('Selecione a dificuldade FACIL(10),MEDIO(50),DIFICIL(100)');
+console.log('Selecione a dificuldade FACIL(10),MEDIO(50),DIFICIL(101)');
 let NUMERO ; 
 let tentativa= '';
 let val=0;
